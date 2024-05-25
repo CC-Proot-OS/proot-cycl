@@ -1,2 +1,5 @@
 [cash]
 location = "local"
+
+[mkfs]
+location = "local"
