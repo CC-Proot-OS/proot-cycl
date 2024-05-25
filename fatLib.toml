@@ -1,6 +1,7 @@
 [package]
 type="lib"
 loc = "/sys/lib"
+fname="fat"
 addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/sys/lib/fat.lua"
-ver=1
+ver=2
 depends=["proot.log",]
