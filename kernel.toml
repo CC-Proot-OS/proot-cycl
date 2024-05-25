@@ -1,0 +1,6 @@
+[package]
+type="os"
+loc = "/boot"
+addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/boot/kernel.lua"
+ver=1
+depends=[]

@@ -3,3 +3,21 @@ location = "local"
 
 [mkfs]
 location = "local"
+
+[zeros]
+location = "local"
+
+[fatLib]
+location = "local"
+
+[regedit]
+location = "local"
+
+[log]
+location = "local"
+
+[toml]
+location = "local"
+
+[kernel]
+location = "local"
