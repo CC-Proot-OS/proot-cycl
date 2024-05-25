@@ -1,6 +1,6 @@
 [package]
 type="bin"
 loc = "/bin"
-addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/bin/mkfs.toml"
+addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/bin/mkfs.lua"
 ver=1
 depends=[]
