@@ -3,4 +3,4 @@ type="os"
 loc = "/boot"
 addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/boot/kernel.lua"
 ver=2
-depends=["log","fatLib"]
+depends=["proot.log","proot.fatLib"]
