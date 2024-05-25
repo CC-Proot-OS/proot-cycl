@@ -1,0 +1,6 @@
+[package]
+type="bin"
+loc = "/bin"
+addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-cycl/main/mkfs.toml"
+ver=1
+depends=[]
