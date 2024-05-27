@@ -1,0 +1,6 @@
+[package]
+type="lib"
+loc = "/sys/lib"
+addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/sys/lib/requirelua"
+ver=1
+depends=[]
