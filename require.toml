@@ -1,6 +1,6 @@
 [package]
 type="lib"
 loc = "/sys/lib"
-addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/sys/lib/requirelua"
-ver=1
+addr="https://raw.githubusercontent.com/CC-Proot-OS/proot-os/master/sys/lib/require.lua"
+ver=2
 depends=[]
