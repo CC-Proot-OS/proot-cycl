@@ -21,3 +21,6 @@ location = "local"
 
 [kernel]
 location = "local"
+
+[require]
+location = "local"
